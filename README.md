@@ -6,7 +6,7 @@
     - CGNet-3M21N
     - CGNet-6M21N
     - ENet
-<img src="![image](https://github.com/user-attachments/assets/0d8a53e2-ff2f-4fcb-9425-ca5e97801da9)" width="300" />
+![image](https://github.com/user-attachments/assets/w_300/0d8a53e2-ff2f-4fcb-9425-ca5e97801da9)
 
 ### Metric Readings
 
